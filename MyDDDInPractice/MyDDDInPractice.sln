@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31402.337
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDInPractice.Tests", "DDDInPracticeTests\DDDInPractice.Tests.csproj", "{A3503E0D-B25A-4D21-977B-0EF9C08CB2BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDInPractice.Logic", "DDDInPractice.Logic\DDDInPractice.Logic.csproj", "{97B2B7D9-7FC6-4F04-B147-AFBB7DA24E0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A3503E0D-B25A-4D21-977B-0EF9C08CB2BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3503E0D-B25A-4D21-977B-0EF9C08CB2BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3503E0D-B25A-4D21-977B-0EF9C08CB2BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B2B7D9-7FC6-4F04-B147-AFBB7DA24E0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B2B7D9-7FC6-4F04-B147-AFBB7DA24E0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B2B7D9-7FC6-4F04-B147-AFBB7DA24E0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B2B7D9-7FC6-4F04-B147-AFBB7DA24E0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
